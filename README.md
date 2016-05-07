@@ -1,6 +1,5 @@
 cloud-slang-content
 =============
-
 CloudSlang is a [YAML](http://yaml.org) based language for writing human-readable workflows for the Cloud Slang Orchestration Engine (Score). This repository includes CloudSlang flows and operations.
 
 [![Circle CI](https://circleci.com/gh/CloudSlang/cloud-slang-content/tree/master.svg?style=svg)](https://circleci.com/gh/CloudSlang/cloud-slang-content/tree/master)
